@@ -1,0 +1,5 @@
+seven_ui:
+  version: 1.x
+  css:
+    layout:
+      css/seven_ui.css: {}
