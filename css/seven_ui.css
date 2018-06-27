@@ -26,3 +26,7 @@
 [dir="rtl"] .layout-region-node-secondary {
   float: left;
 }
+
+.form-type-textfield + .filter-wrapper {
+  display: none;
+}
