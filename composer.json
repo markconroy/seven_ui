@@ -1,0 +1,7 @@
+{
+    "name": "markconroy/seven_ui",
+    "description": "Tweaks to D8 seven theme",
+    "type": "drupal-custom-module",
+    "minimum-stability": "dev",
+    "require": {}
+}
